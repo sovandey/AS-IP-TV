@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AS IP TV</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search channels</string>
+    <string name="favorite">Favorite</string>
+    <string name="back">Back</string>
+    <string name="previous">Previous channel</string>
+    <string name="next">Next channel</string>
+    <string name="retry">Retry</string>
+    <string name="play_error">Can\'t play this channel. It may be offline or blocked in your region. Try Retry, or switch channel with the arrows.</string>
+
+    <string name="channel_count">%1$d channels</string>
+    <string name="no_results">No channels found</string>
+    <string name="no_favorites">No favorites yet. Tap the star next to a channel.</string>
+
+    <string name="add_playlist">Add playlist URL</string>
+    <string name="add_playlist_hint">Paste a link to an .m3u playlist. Its channels are added to your list.</string>
+    <string name="add">Add</string>
+    <string name="invalid_url">Enter a link starting with http:// or https://</string>
+    <string name="playlist_added">Playlist added: %1$d channels</string>
+    <string name="playlist_failed">Could not load playlist: %1$s</string>
+    <string name="refresh_playlists">Refresh playlists</string>
+    <string name="nothing_to_refresh">You haven\'t added any playlist URLs yet</string>
+    <string name="refreshed">Playlists refreshed</string>
+    <string name="refresh_failed">%1$d playlist(s) could not be refreshed</string>
+    <string name="reset_title">Remove added playlists</string>
+    <string name="reset_message">This removes playlists you added and goes back to the built-in channels. Favorites are kept.</string>
+    <string name="reset">Remove</string>
+</resources>
